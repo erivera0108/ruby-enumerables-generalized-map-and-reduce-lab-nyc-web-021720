@@ -10,3 +10,6 @@ def map(array)
   result
 end 
 
+def reduce 
+  
+end
